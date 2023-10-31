@@ -25,6 +25,6 @@ pipeline {
                 sh "mvn -Dmaven.test.skip package -Dmaven.compile.skip package"
             }
         }
-        //comment
+        //comment 2
     }
 }
